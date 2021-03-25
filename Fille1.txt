@@ -3,3 +3,7 @@
 456
 
 789.
+Add line >> Fille1.txt
+cat Fille1.txt
+q
+echo Add line
